@@ -4,6 +4,15 @@
 
 Bu proje, bir çelik sanayi tesisinin (veya benzeri bir işletmenin) enerji tüketimini gerçek zamanlı olarak izlemek, maliyetleri analiz etmek ve yapay zeka destekli tahminlerle anormallikleri tespit etmek için geliştirilmiş kapsamlı bir mobil uygulama ve backend çözümüdür.
 
+
+
+
+https://github.com/user-attachments/assets/28382938-41d7-402a-aa75-74cf1b84c7cc
+
+
+
+
+
 ## Özellikler
 
 *   **Gerçek Zamanlı İzleme:** Anlık enerji tüketimini (kWh), güç faktörünü ve maliyeti canlı olarak takip edin.
