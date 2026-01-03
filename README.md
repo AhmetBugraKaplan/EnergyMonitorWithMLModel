@@ -70,7 +70,7 @@ Backend sunucusu, Android uygulamasının veri kaynağıdır ve ML modelini bar�
 
 Bu projede kullanılan ML modeli, enerji tüketimini etkileyen çeşitli faktörleri analiz ederek tahminleme yapar.
 
-*   **Veri Seti:** Steel Industry Energy Consumption Dataset
+*   **Veri Seti:** Steel Industry Energy Consumption Dataset : https://www.kaggle.com/code/rishabhtiwari21/steel-industry-energy-prediction-project
 *   **Kullanılan Algoritma:** Gradient Boosting Regressor
 *   **Performans (R2 Skoru):** ~0.995 (Yüksek doğruluk)
 *   **Girdi Öznitelikleri (Features):**
